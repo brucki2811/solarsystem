@@ -30,3 +30,7 @@ Taste 's':
 Taste 'esc':
 
 	Schließt das Programm.
+
+Erklärung zur Sonne:	
+
+	Die Sonne wurde bewusst so klein gehalten, da man sonst die Erde kaum erkennen würde.
